@@ -1,0 +1,9 @@
+package component:hello-world;
+
+interface greeter {
+    hello-world: func() -> string;
+}
+
+world example {
+    export greeter;
+}

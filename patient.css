@@ -1,0 +1,41 @@
+.patient {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+}
+
+.patient-header {
+    text-align: center;
+}
+
+.patient-body {
+    margin-top: 20px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+.patient-footer {
+    margin-top: 20px;
+    text-align: right;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
